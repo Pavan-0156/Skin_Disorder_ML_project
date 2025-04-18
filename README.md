@@ -60,5 +60,24 @@ The dataset contains clinical attributes related to skin disorders. Each row rep
 - Confusion matrices for model comparison
 - Accuracy bar plot
 
-## 📁 Project Structure
+## 🚀 How to Run
+
+1. Clone the repository
+2. Open the notebook `Skin Disorder.ipynb` in Jupyter
+3. Run all cells sequentially
+
+## 💡 Future Improvements
+
+- Hyperparameter tuning for better accuracy
+- Integration with image-based dermatology datasets
+- Deploy as a web application
+
+## 🤝 Acknowledgements
+
+Special thanks to the UCI Machine Learning Repository for the dermatology dataset.
+
+---
+
+Feel free to modify this file according to your personal style or project additions. Let me know if you'd like a `.md` file ready to upload or if you want help deploying this project on Streamlit or Flask!
+
 
