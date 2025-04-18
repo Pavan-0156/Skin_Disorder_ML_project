@@ -21,7 +21,7 @@ The dataset contains clinical attributes related to skin disorders. Each row rep
   - Pityriasis Rosea
   - Chronic Dermatitis
   - Pityriasis Rubra Pilaris
-DATASET = <a href="">Dataset</a>
+DATASET = <a href="https://github.com/Pavan-0156/Skin_Disorder_ML_project/blob/main/PRCP-1028-Skin-Disorder-Prediction-20220512T101734Z-001.zip">Dataset</a>
 ## ⚙️ Technologies Used
 
 - Python
